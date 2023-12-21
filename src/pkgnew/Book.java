@@ -13,6 +13,6 @@ public class Book {
         return author;
     }
     void git(){
-        
+        System.out.println("new");
     }
 }
